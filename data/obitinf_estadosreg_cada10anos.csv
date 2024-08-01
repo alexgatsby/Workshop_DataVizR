@@ -1,0 +1,46 @@
+ Óbitos infantis - Brasil
+Óbitos p/Residênc por Região/Unidade da Federação e Ano do Óbito
+Período:2000, 2010, 2020
+"Região/Unidade da Federação";"2000";"2010";"2020";"Total"
+"Região Norte";7294;5289;4386;16969
+".. Rondônia";724;479;336;1539
+".. Acre";476;287;243;1006
+".. Amazonas";1864;1178;1051;4093
+".. Roraima";181;126;264;571
+".. Pará";3144;2533;1976;7653
+".. Amapá";314;287;264;865
+".. Tocantins";591;399;252;1242
+"Região Nordeste";24553;13197;9997;47747
+".. Maranhão";1898;1860;1458;5216
+".. Piauí";1345;833;628;2806
+".. Ceará";3801;1691;1417;6909
+".. Rio Grande do Norte";1206;638;492;2336
+".. Paraíba";1848;850;715;3413
+".. Pernambuco";4885;2083;1493;8461
+".. Alagoas";2027;918;579;3524
+".. Sergipe";1163;510;505;2178
+".. Bahia";6380;3814;2710;12904
+"Região Sudeste";24394;14120;11074;49588
+".. Minas Gerais";6258;3336;2582;12176
+".. Espírito Santo";1100;617;525;2242
+".. Rio de Janeiro";5114;3004;2508;10626
+".. São Paulo";11922;7163;5459;24544
+"Região Sul";7680;4220;3404;15304
+".. Paraná";3514;1840;1361;6715
+".. Santa Catarina";1490;888;913;3291
+".. Rio Grande do Sul";2676;1492;1130;5298
+"Região Centro-Oeste";4278;3044;2578;9900
+".. Mato Grosso do Sul";965;631;451;2047
+".. Mato Grosso";1122;739;689;2550
+".. Goiás";1500;1115;1054;3669
+".. Distrito Federal";691;559;384;1634
+"Total";68199;39870;31439;139508
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
+ No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.
+ 

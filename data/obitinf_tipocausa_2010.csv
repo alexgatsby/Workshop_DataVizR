@@ -1,0 +1,46 @@
+ Óbitos infantis - Brasil
+Óbitos p/Residênc por Região/Unidade da Federação e Causas evitáveis - 0 a 4 anos
+Período:2010
+"Região/Unidade da Federação";"1.1. Reduzível pelas ações de imunização";"1.2.1 Reduzíveis atenção à mulher na gestação";"1.2.2 Reduz por adequada atenção à mulher no parto";"1.2.3 Reduzíveis adequada atenção ao recém-nascido";"1.3. Reduz ações diagnóstico e tratamento adequado";"1.4. Reduz. ações promoção à saúde vinc. Aç. At";"2. Causas mal definidas";"3. Demais causas (não claramente evitáveis)";"Total"
+"Região Norte";6;1118;638;1086;486;337;268;1350;5289
+".. Rondônia";-;104;53;96;38;25;13;150;479
+".. Acre";1;57;24;61;24;13;27;80;287
+".. Amazonas";1;202;114;205;104;105;105;342;1178
+".. Roraima";1;28;13;19;14;12;-;39;126
+".. Pará";3;574;329;553;239;137;111;587;2533
+".. Amapá";-;48;47;95;23;14;6;54;287
+".. Tocantins";-;105;58;57;44;31;6;98;399
+"Região Nordeste";10;3497;1676;2550;900;841;398;3325;13197
+".. Maranhão";2;476;287;327;134;150;63;421;1860
+".. Piauí";-;272;110;111;36;48;33;223;833
+".. Ceará";1;431;201;369;91;96;35;467;1691
+".. Rio Grande do Norte";-;187;52;129;59;36;5;170;638
+".. Paraíba";1;209;95;233;42;37;21;212;850
+".. Pernambuco";2;612;238;343;138;155;44;551;2083
+".. Alagoas";1;217;106;222;88;73;11;200;918
+".. Sergipe";-;125;93;73;36;34;10;139;510
+".. Bahia";3;968;494;743;276;212;176;942;3814
+"Região Sudeste";14;3887;1316;2661;1058;677;238;4269;14120
+".. Minas Gerais";1;948;282;661;209;125;65;1045;3336
+".. Espírito Santo";-;201;67;75;25;39;9;201;617
+".. Rio de Janeiro";4;888;299;427;239;200;38;909;3004
+".. São Paulo";9;1850;668;1498;585;313;126;2114;7163
+"Região Sul";2;1280;394;629;202;259;75;1379;4220
+".. Paraná";-;641;178;214;61;124;33;589;1840
+".. Santa Catarina";1;214;87;176;48;42;15;305;888
+".. Rio Grande do Sul";1;425;129;239;93;93;27;485;1492
+"Região Centro-Oeste";-;828;292;516;230;175;52;951;3044
+".. Mato Grosso do Sul";-;140;80;111;38;66;5;191;631
+".. Mato Grosso";-;183;56;121;86;54;12;227;739
+".. Goiás";-;307;115;216;74;31;30;342;1115
+".. Distrito Federal";-;198;41;68;32;24;5;191;559
+"Total";32;10610;4316;7442;2876;2289;1031;11274;39870
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
+ No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.
+ 

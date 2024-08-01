@@ -1,0 +1,49 @@
+ Nascidos vivos - Brasil
+Nascim p/resid.mãe por Região/Unidade da Federação e Ano do nascimento
+Período:2000, 2010, 2020
+"Região/Unidade da Federação";"2000";"2010";"2020";"Total"
+"Região Norte";290708;306422;301635;898765
+".. Rondônia";31307;25835;25798;82940
+".. Acre";15228;16495;15142;46865
+".. Amazonas";67646;74188;75635;217469
+".. Roraima";9744;9738;13760;33242
+".. Pará";126340;140687;132938;399965
+".. Amapá";14238;15008;14633;43879
+".. Tocantins";26205;24471;23729;74405
+"Região Nordeste";926104;841160;770688;2537952
+".. Maranhão";100811;119566;106079;326456
+".. Piauí";58615;49424;45229;153268
+".. Ceará";143393;128831;121904;394128
+".. Rio Grande do Norte";56444;47668;43531;147643
+".. Paraíba";57427;58699;56379;172505
+".. Pernambuco";163405;136591;128481;428477
+".. Alagoas";65763;54164;48341;168268
+".. Sergipe";40716;34016;31784;106516
+".. Bahia";239530;212201;188960;640691
+"Região Sudeste";1306235;1123593;1052399;3482227
+".. Minas Gerais";300958;255126;247198;803282
+".. Espírito Santo";58380;51853;53767;164000
+".. Rio de Janeiro";259118;215262;199124;673504
+".. São Paulo";687779;601352;552310;1841441
+"Região Sul";451009;369905;374949;1195863
+".. Paraná";179462;152051;146291;477804
+".. Santa Catarina";94828;84611;97916;277355
+".. Rio Grande do Sul";176719;133243;130742;440704
+"Região Centro-Oeste";232705;220788;230474;683967
+".. Mato Grosso do Sul";40490;40132;41308;121930
+".. Mato Grosso";49478;48929;57037;155444
+".. Goiás";94746;87476;92768;274990
+".. Distrito Federal";47991;44251;39361;131603
+"Total";3206761;2861868;2730145;8798774
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011".
+ 
+ * A categorização da "Adequação quantitativa de pré-natal" mostrada na variável "Adeq quant pré-natal" considera o início do
+ pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no
+ arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).
+ Maiores informações no documento "Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi
+ 
