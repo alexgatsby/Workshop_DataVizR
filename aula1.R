@@ -260,14 +260,14 @@ dbvar %>%
   ggplot (aes(x=tmi_2020, y=var2000_2020*(-1)))  +
   geom_point(aes(size=nobit_2020/1000, color=regiao), alpha=.5) +
   geom_hline(aes(yintercept = 10), linetype='dotted') +
-  geom_text(aes(label='Redução de 10%',
+  geom_text(aes(label='Redução de 10',
                 x=16, y=11)) +
   geom_hline(aes(yintercept = 15), linetype='dotted') +
-  geom_text(aes(label='Redução de 15%',
+  geom_text(aes(label='Redução de 15',
                 x=16, y=16)) +
   scale_color_manual(values=cores[3:8]) +
   theme_classic() +
-  labs (y='Pontos percentuais de declínio na\ntaxa de mortalidade nfantil',
+  labs (y='Declínio na\ntaxa de mortalidade nfantil',
         x='Taxa de Mortalidade Infantil de 2020',
         size='Mortes infantis\n(milhares), 2020',
         color=NULL,
