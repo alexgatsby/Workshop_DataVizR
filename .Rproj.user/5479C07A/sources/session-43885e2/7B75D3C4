@@ -1,0 +1,26 @@
+{
+    "id": "7B75D3C4",
+    "path": "C:/Users/alexsandra.cavalcant/Desktop/Workshop Python-R-ArcGis/Workshop_DataVizR/aula1.R",
+    "project_path": "aula1.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1722602910114.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "319,17",
+        "scrollLine": "288"
+    },
+    "folds": "1|29|16|0|\n17|33|18|0|\n19|18|37|0|\n38|29|53|0|\n54|20|62|0|\n64|22|82|0|\n83|12|104|0|\n106|29|109|0|\n116|22|142|0|\n143|12|167|0|\n278|23|279|0|\n",
+    "lastKnownWriteTime": 1723212402,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1723212402229,
+    "read_only": false,
+    "read_only_alternatives": []
+}
